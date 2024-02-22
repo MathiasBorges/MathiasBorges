@@ -1,16 +1,16 @@
 <h1>👋🧐 Hi, I’m @MathiasBorges</h1>
 <ul>
   <li>
-     👀 I'm interested in learning, learning...
+     👀 I'm interested in <b>learning, learning<b>...
   </li>
    <li>
-     🌱 I’m currently learning Python and React.js ...
+     🌱 I’m currently learning <b>Python</b> and <b>React.js</b> ...
   </li>
    <li>
-     💞️ I want to collaborate in the learning of others ...
+     💞️ I want to <b>collaborate<b/> in the learning of others ...
   </li>
    <li>
-     📫 How to reach me ... dsmathiasmarques@gmail.com
+     📫 How to reach me ... <a href='mailto:dsmathiasmarques@gmail.com'>dsmathiasmarques@gmail.com</a>
   </li>
 </ul>
 
