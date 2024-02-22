@@ -1,5 +1,5 @@
 <h1>👋🧐 Hi, I’m @MathiasBorges</h1>
-<ol>
+<ul>
   <li>
      👀 I'm interested in learning, learning...
   </li>
@@ -12,7 +12,7 @@
    <li>
      📫 How to reach me ... dsmathiasmarques@gmail.com
   </li>
-</ol>
+</ul>
 
 <!---
 MathiasBorges/MathiasBorges is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
