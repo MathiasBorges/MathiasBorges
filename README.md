@@ -1,4 +1,4 @@
-<h1>👋🧐 Hi, I’m @MathiasBorges</h1>
+<h1>👋😄 Hi, I’m @MathiasBorges</h1>
 <ul>
   <li>
      👀 I'm interested in <b>learning, learning<b>...
