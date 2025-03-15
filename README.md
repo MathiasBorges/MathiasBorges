@@ -13,7 +13,7 @@
   </li>
        <br>
    <li>
-     📫 How to reach me ... <a href='mailto:mathiasborgesmarques@gmail.com'>dsmathiasmarques@gmail.com</a>
+     📫 How to reach me ... <a href='mailto:mathiasborgesmarques@gmail.com'>mathiasborgesmarques@gmail.com</a>
   </li>
 </ul>
 
