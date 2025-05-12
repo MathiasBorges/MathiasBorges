@@ -15,7 +15,7 @@
   <br>
   <li>🌱 Atualmente focado em aprofundar meus estudos em <b style="color:#89b4fa;">Python</b> e desvendando os segredos do <b style="color:#f9e2af;">Next.js</b>.</li>
   <br>
-  <li>💻 Tenho interesse em <b style="color:#9ece6a;">Node.js</b> para o desenvolvimento backend, em trabalhar com <b style="color:#f0c674;">SQL</b> para gerenciamento de bancos de dados e em utilizar o <b style="color:#cdd0f0;">Firebase</b> para diversas funcionalidades. Além disso, possuo conhecimentos em <b style="color:#cdd0f0;">PHP</b> e estou explorando <b style="color:#e0af68;">Java</b>.</li>
+  <li>💻 Tenho interesse em <b style="color:#9ece6a;">Node.js</b> para o desenvolvimento backend, em trabalhar com <b style="color:#f0c674;">SQL</b> para gerenciamento de bancos de dados e em utilizar o <b style="color:#cdd0f0;">Firebase</b> para diversas analytics e cloud. Além disso, possuo conhecimentos em <b style="color:#cdd0f0;">PHP</b> e estou explorando <b style="color:#e0af68;">Java</b>.</li>
   <br>
   <li>🤝 Acredito na força da <b style="color:#f5c2e7;">colaboração</b> e adoraria contribuir para o aprendizado de outros.</li>
   <br>
