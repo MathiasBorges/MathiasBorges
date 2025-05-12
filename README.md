@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<SEU_NOME_DE_USUÁRIO>&show_icons=true&theme=material-palenight" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=MathiasBorges&show_icons=true&theme=material-palenight" alt="Estatísticas do GitHub">
 </p>
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-badge.svg" width="20px"> Sobre Mim
