@@ -8,14 +8,15 @@
   <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=sql&logoColor=blue" alt="SQL">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/-React%20native-000?&logo=React" alt="Firebase">
 </p>
 
 <ul>
   <li>🔭 Explorando o universo do conhecimento e sempre <b style="color:#a6e3a1;">aprendendo</b>!</li>
   <br>
-  <li>🌱 Atualmente focado em aprofundar meus estudos em <b style="color:#89b4fa;">Python</b> e desvendando os segredos do <b style="color:#f9e2af;">Next.js</b>.</li>
+  <li>🌱 Atualmente focado em aprofundar meus estudos em <b style="color:#89b4fa;">React Native</b> e desvendando os segredos do <b style="color:#f9e2af;">Firebase</b>.</li>
   <br>
-  <li>💻 Tenho interesse em <b style="color:#9ece6a;">Node.js</b> para o desenvolvimento backend, em trabalhar com <b style="color:#f0c674;">SQL</b> para gerenciamento de bancos de dados e em utilizar o <b style="color:#cdd0f0;">Firebase</b> para diversas analytics e cloud. Além disso, possuo conhecimentos em <b style="color:#cdd0f0;">PHP</b> e estou explorando <b style="color:#e0af68;">Java</b>.</li>
+  <li>💻 Tenho interesse em <b style="color:#9ece6a;">Node.js</b> para o desenvolvimento backend, em trabalhar com <b style="color:#f0c674;">React Native</b> para criar apps <b style="color:#cdd0f0;">Firebase</b> para analytics e cloud. Além disso, possuo conhecimentos em <b style="color:#cdd0f0;">PHP</b> e estou explorando <b style="color:#e0af68;">Java</b>.</li>
   <br>
   <li>🤝 Acredito na força da <b style="color:#f5c2e7;">colaboração</b> e adoraria contribuir para o aprendizado de outros.</li>
   <br>
