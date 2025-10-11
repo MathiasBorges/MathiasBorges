@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=sql&logoColor=blue" alt="SQL">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/-React%20native-000?&logo=React" alt="Firebase">
+  <img src="https://img.shields.io/badge/-React%20native-002?&logo=React" alt="React Native">
 </p>
 
 <ul>
