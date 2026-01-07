@@ -1,54 +1,59 @@
-<div align="center">
-  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá! Sou o Mathias Borges</h1>
-  <p><i>Desenvolvedor Full Stack apaixonado por construir soluções eficientes e escaláveis.</i></p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, sou o Mathias Borges!
+</h1>
+<h3 align="center">Desenvolvedor Full Stack 💻</h3>
 
-  <p align="center">
-    <a href="https://github.com/MathiasBorges">
-      <img src="https://github-readme-stats.vercel.app/api?username=MathiasBorges&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="stats graph" />
-    </a>
-    <a href="https://github.com/MathiasBorges">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathiasBorges&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="languages graph" />
-    </a>
-  </p>
+<p align="center">
+  <i>Construindo soluções eficientes e escaláveis para o mundo real.</i>
+</p>
+
+<div align="center">
+  <a href="mailto:mathiasborgesmarques@gmail.com">
+    <img src="https://img.shields.io/badge/-mathiasborgesmarques@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
----
+<br>
 
-### 🚀 Sobre Mim
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🚀 Sobre Mim</h3>
+      <ul style="list-style-type: none; margin: 0; padding: 0;">
+        <li>🔭 Sempre <b>aprendendo</b> novas tecnologias.</li>
+        <li>🌱 Foco atual: <b>React Native</b>, <b>Express</b> e <b>Firebase</b>.</li>
+        <li>🤝 Aberto a <b>colaborações</b> em projetos open source.</li>
+        <li>🎯 Objetivo: Impactar vidas através do código.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-* 🔭 Explorando o universo do conhecimento e sempre **aprendendo**!
-* 🌱 Atualmente focado em aprofundar meus estudos em **React Native**, **Express.js** e desvendando os segredos do **Firebase**.
-* 🤝 Acredito na força da **colaboração** e adoraria contribuir para o aprendizado de outros.
-* 📫 Entre em contato: <a href='mailto:mathiasborgesmarques@gmail.com'>mathiasborgesmarques@gmail.com</a>
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <br>
+  <a href="https://github.com/MathiasBorges">
+    <img src="https://github-readme-stats.vercel.app/api?username=MathiasBorges&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathiasBorges&locale=pt-br&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+  </a>
+</div>
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/-React%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
-</p>
-
-**Backend & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</p>
-
-**Infra, Database & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=sql&logoColor=blue" alt="SQL">
-</p>
-
----
+<br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
