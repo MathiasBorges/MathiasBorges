@@ -48,8 +48,8 @@
   <h3>📊 GitHub Stats</h3>
   <br>
   <a href="https://github.com/MathiasBorges">
-  ![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=MathiasBorges&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MathiasBorges&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathiasBorges&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MathiasBorges&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   </a>
 </div>
 
