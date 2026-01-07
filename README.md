@@ -11,7 +11,7 @@
   <a href="mailto:mathiasborgesmarques@gmail.com">
     <img src="https://img.shields.io/badge/-mathiasborgesmarques@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/SEU_USUARIO">
+  <a href="https://linkedin.com/in/mathias-borges-marques">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
